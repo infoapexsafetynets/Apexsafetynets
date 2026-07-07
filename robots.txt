@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /build/
+Disallow: /screenshots/
+
+Sitemap: https://apexsafetynets.com/sitemap.xml

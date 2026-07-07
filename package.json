@@ -1,0 +1,12 @@
+{
+  "name": "apex-safety-nets",
+  "version": "1.0.0",
+  "description": "Chennai No. 1 safety nets company website",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "keywords": [],
+  "author": "Apex Safety Nets",
+  "license": "ISC"
+}
